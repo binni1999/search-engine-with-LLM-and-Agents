@@ -1,0 +1,17 @@
+langchain-openai
+langchain
+langchain_classic
+python-dotenv 
+langchain_community
+langchain_core
+streamlit
+langchain-groq
+langchain_huggingface
+arxiv
+wikipedia
+mysql-connector-python 
+SQLAlchemy
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
